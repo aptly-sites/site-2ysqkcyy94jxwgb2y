@@ -37,7 +37,7 @@ export const site = {
     ctaHref: '#contact',
   },
   services: [
-    { icon: '🏠', title: 'Leasing & Marketing', description: 'Professional photography, syndicated listings, and thorough tenant screening.' },
+    { icon: '🏠', title: 'Leasing', description: 'Professional photography, syndicated listings, and thorough tenant screening.' },
     { icon: '🔧', title: 'Maintenance & Repairs', description: '24/7 emergency response and a trusted vendor network.' },
     { icon: '💰', title: 'Rent Collection', description: 'Automated collection, owner disbursements, and detailed monthly statements.' },
     { icon: '📊', title: 'Financial Reporting', description: 'Real-time owner portal with income/expense reports and full transaction history.' },
